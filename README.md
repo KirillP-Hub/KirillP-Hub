@@ -1,10 +1,6 @@
-<div align="center" font-size="8">
-
-<div align="center" font-size="8"> 
+<div align="center">
   
 ## Technology Stack
-
-</div>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -25,6 +21,8 @@
 
 ## Hardware
 ![MSI](https://img.shields.io/badge/msi-%23000000.svg?style=for-the-badge&logo=msi&logoColor=%23FF0000)
+
+</div>
 
 <!--
 **KirillP-Hub/KirillP-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
